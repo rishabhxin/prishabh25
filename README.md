@@ -79,19 +79,10 @@ Reusable UI components, typography systems, consistent spacing, and design-to-co
 ◈ Creative Experiments
 Small ideas, unexpected interactions, animations, and projects built simply because I wanted to see if I could.
 
-Explore my repositories: [github.com/YOUR_USERNAME?tab=repositories](https://github.com/rishabhxin?tab=repositories)
+Explore my repositories: [github.com/rishabhxin?tab=repositories](https://github.com/rishabhxin?tab=repositories)
 
 *Replace these concepts with your real projects, screenshots, live demos, and repository links as you publish them.*
 
----
-
-`04` — My GitHub Universe 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
----
 
 ## `05` — Currently in My Workshop 🛠️
 
